@@ -4,3 +4,4 @@ permalink: /blog/:year/:month/:day/:title
 permalink: /aboutme
 permalink: /cv
 permalink: /publications
+permalink: /presentations
