@@ -1,4 +1,8 @@
-name: Lena Borise
+title: Lena Borise's website
+
+author:
+  name: Lena Borise
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 permalink: /aboutme
