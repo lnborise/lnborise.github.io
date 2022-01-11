@@ -12,3 +12,4 @@ permalink: /presentations
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
