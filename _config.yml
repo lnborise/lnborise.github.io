@@ -5,3 +5,6 @@ permalink: /aboutme
 permalink: /cv
 permalink: /publications
 permalink: /presentations
+
+plugins:
+  - jekyll-seo-tag
