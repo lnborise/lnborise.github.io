@@ -1,7 +1,4 @@
-title: Lena Borise's website
-
-author:
-  name: Lena Borise
+title: Lena Borise's website  
 
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
@@ -13,3 +10,17 @@ permalink: /presentations
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  
+author:
+  name: Lena Borise
+  image: LB_upddd.jpg
+
+social:
+  name: Lena Borise
+  links:
+   - https://www.facebook.com/lena.borise
+   - https://github.com/lnborise
+   - https://www.researchgate.net/profile/Lena-Borise
+   - https://uk.linkedin.com/in/lena-borise-8821a547
+   - https://scholar.google.com/citations?hl=ru&user=TrvSdWIAAAAJ
+   - https://nytud.academia.edu/LenaBorise
