@@ -2,7 +2,7 @@ title: Lena Borise's website
 email: lnborise@gmail.com
 description: This website hosts Lena Borise's work in linguistics.
 baseurl: "lnborise"
-url:   https://lnborise.github.io
+url: "https://lnborise.github.io"
 github_username: lnborise
 
 markdown: kramdown
